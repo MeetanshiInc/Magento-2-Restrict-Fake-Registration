@@ -18,4 +18,4 @@ Magento 2 Restrict Fake Registration module offers an option to enable Google re
 
 For more information, visit [https://meetanshi.com/magento-2-restrict-fake-registration.html](https://meetanshi.com/magento-2-restrict-fake-registration.html)
 
-**Note:** The extension has the backend setting to add restricted domains and thus, we provide a list of disposable and fake domains we found to add under the "Restricted Email Domains" option in the backend configuration. Refer file [**Disposable-Email-Domains**](https://github.com/MeetanshiInc/Magento-2-Restrict-Fake-Registration/blob/master/Disposable-Email-Providers.txt) for the list of disposable Email domains. 
+**Note:** The extension has the backend setting to add restricted domain providers and thus, we provide a list of disposable and fake domain providers we found to add under the "Restricted Email Domains" option in the backend configuration. Refer file [**Disposable-Email-Providers**](https://github.com/MeetanshiInc/Magento-2-Restrict-Fake-Registration/blob/master/Disposable-Email-Providers.txt) for the list of disposable Email providers. 
