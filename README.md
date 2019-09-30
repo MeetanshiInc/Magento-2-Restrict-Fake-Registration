@@ -6,11 +6,16 @@ The module helps restrict dummy sign-ups by restricting specified domains for Em
 
 Magento 2 Restrict Fake Registration module offers an option to enable Google reCAPTCHA v2 for security against undefined bots. Ensure secure customer experience on your Magento 2 store and hence win customers' trust!
 
-Benefits of Choosing Meetanshi's Magento 2 Restrict Fake Registration:
-Set the list of domains to restrict Email IDs used for signup.
-Set validation for the character lengths of the first name and last name used for signup.
-Enable Google reCAPTCHA v2 for added security against undefined bots.
-Secure store for improved customer experience!
+## Benefits of Choosing Meetanshi's Magento 2 Restrict Fake Registration:
+
+* Set the list of domains to restrict Email IDs used for signup.
+
+* Set validation for the character lengths of the first name and last name used for signup.
+
+* Enable Google reCAPTCHA v2 for added security against undefined bots.
+
+* Secure store for improved customer experience!
+
 For more information, visit [https://meetanshi.com/magento-2-restrict-fake-registration.html](https://meetanshi.com/magento-2-restrict-fake-registration.html)
 
-**Note:** The extension has the backend setting to add restricted domains and thus, we provide a list of disposable and fake domains we found to add under the "Restricted Email Domains" option in the backend configuration. Refer file [**Disposable-Email-Domains**](https://github.com/MeetanshiInc/Magento-2-Restrict-Fake-Registration/blob/master/Disposable-Email-Domains.xlsx) for the list of disposable Email domains. 
+**Note:** The extension has the backend setting to add restricted domains and thus, we provide a list of disposable and fake domains we found to add under the "Restricted Email Domains" option in the backend configuration. Refer file [**Disposable-Email-Domains**](https://github.com/MeetanshiInc/Magento-2-Restrict-Fake-Registration/blob/master/Disposable-Email-Domains.txt) for the list of disposable Email domains. 
